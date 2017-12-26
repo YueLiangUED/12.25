@@ -8,16 +8,16 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <title>北京移动</title>
     <link rel="stylesheet" href="css/reset.min.css">
-    <link rel="stylesheet/less" type="text/css" href="css/styles.less" />
-    <!--<link rel="stylesheet" href="css/style.css">-->
-    <script src="js/less-1.7.0.min.js"></script>
+    <!--<link rel="stylesheet/less" type="text/css" href="css/styles.less" />-->
+    <link rel="stylesheet" href="css/style.css">
+    <!--<script src="js/less-1.7.0.min.js"></script>
     <script charset="utf-8" type="text/javascript">
         var less = {
             env: 'development',
             poll: 1000
         };
         less.watch;
-    </script>
+    </script>-->
 </head>
 <body>
 <div class="wrap">
@@ -52,7 +52,7 @@
             <ul class="clear">
                 <li class="search-first">按拼音查询</li>
                 <li class="search-sec desc">
-                    <ul class="letterBox clear">
+                    <ul id="letter" class="letterBox clear">
                         <li>全部</li>
                         <li>A</li>
                         <li>B</li>
@@ -88,14 +88,49 @@
             <ul class="clear">
                 <li class="search-first">按类别查询</li>
                 <li class="search-sec desc">
-                    <ul class="letterBox desc clear">
+                    <ul id="classes" class="letterBox desc clear">
                         <li>全部</li>
-                        <li>套餐</li>
-                        <li>数据上网</li>
-                        <li>语音通话</li>
-                        <li>基础服务</li>
-                        <li>娱乐与工具</li>
-                        <li>其他</li>
+                        <li>套餐&语音</li>
+                        <li>
+                            流量业务
+                            <div>
+                                <span>流量</span>
+                                <span>WLAN</span>
+                            </div>
+                        </li>
+                        <li>
+                            家庭集团
+                            <div>
+                                <span>家庭</span>
+                                <span>集团</span>
+                            </div>
+                        </li>
+                        <li>
+                            国际业务
+                            <div>
+                                <span>语音优惠</span>
+                                <span>流量优惠</span>
+                                <span>其他</span>
+                            </div>
+                        </li>
+                        <li>
+                            基础服务
+                            <div>
+                                <span>上网功能</span>
+                                <span>语音功能</span>
+                                <span>短/彩信</span>
+                                <span>其他</span>
+                            </div>
+                        </li>
+                        <li>
+                            娱乐&生活
+                            <div>
+                                <span>娱乐</span>
+                                <span>生活</span>
+                                <span>资讯</span>
+                                <span>教育</span>
+                            </div>
+                        </li>
                     </ul>
                 </li>
             </ul>
@@ -173,7 +208,7 @@
                 <a href="https://service.bj.10086.cn/poffice/package/showpackage.action?PACKAGECODE=TKJ" target="_blank">
                     <img data-original="./images/icon1-11.png" alt="停开机">
                     <h2>停开机</h2>
-                    <p>停止或回复手机号码使用的功能</p>
+                    <p>停止或恢复手机号码使用的功能</p>
                     <i></i>
                 </a>
             </li>
@@ -189,7 +224,7 @@
                 <a href="https://service.bj.10086.cn/poffice/package/showpackagebbby.action?PACKAGECODE=YDFWKHD" target="_blank">
                     <img data-original="./images/icon1-4.png" alt="北京移动手机营业厅">
                     <h2>北京移动手机营业厅</h2>
-                    <p>北京移动手机营业厅是一款手机客户端软件</p>
+                    <p>是一款手机客户端软件</p>
                     <i></i>
                 </a>
             </li>
@@ -542,7 +577,7 @@
                     <img data-original="./images/icon5-7.png" alt="提醒业务
                     ">
                     <h2>提醒业务</h2>
-                    <p>享优惠资讯</p>
+                    <p>关键时刻，准确、及时清晰的提醒</p>
                     <i></i>
                 </a>
             </li>
@@ -630,7 +665,7 @@
                 <a href="https://service.bj.10086.cn/poffice/package/showpackage.action?PACKAGECODE=300YJK" target="_blank">
                     <img data-original="./images/icon6-6.png" alt="300元监控">
                     <h2>300元监控</h2>
-                    <p>是指当您的已出账话费(未交纳)和实时话费累计达到270元，系统会提示您交纳300元预存</p>
+                    <p>已出账话费(未交纳)和实时话费累计达到270元，系统会提示您交纳300元预存</p>
                     <i></i>
                 </a>
             </li>
@@ -803,7 +838,7 @@
                 </a>
             </li>
             <li>
-                <a href="" target="_blank">
+                <a href="https://service.bj.10086.cn/poffice/package/showpackagebbby.action?PACKAGECODE=YYSS" target="_blank">
                     <img data-original="./images/icon8-4.png" alt="音乐搜索">
                     <h2>音乐搜索</h2>
                     <p>音乐搜索业务是通过梦网搜索和互联网搜索</p>
@@ -919,7 +954,7 @@
                     <img data-original="./images/icon9-6.png" alt="任我看">
                     <h2>任我看</h2>
                     <p>视频任我看</p>
-                    <i>18-588元/月</i>
+                    <i>9-24元/月</i>
                 </a>
             </li>
             <li>

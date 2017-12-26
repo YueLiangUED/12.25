@@ -2,108 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba40a259-4b3c-4da3-91e8-1da760f33ccf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon2-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon3-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon5-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon6-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon7-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon8-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon9-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon9-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon9-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon9-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon9-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon9-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon9-7.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -129,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="952" column="12" selection-start-line="952" selection-start-column="12" selection-end-line="952" selection-end-column="12" />
+            <state relative-caret-position="152">
+              <caret line="133" column="56" selection-start-line="133" selection-start-column="56" selection-end-line="133" selection-end-column="56" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -403,12 +301,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514021415757</updated>
       <workItem from="1514021417139" duration="360000" />
-      <workItem from="1514056338623" duration="34006000" />
+      <workItem from="1514056338623" duration="34481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34366000" />
+    <option name="totallyTimeSpent" value="34841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1238" height="777" extended-state="0" />
@@ -598,10 +496,30 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/icon1-4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icon1-6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icon1-5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icon1-7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="952" column="12" selection-start-line="952" selection-start-column="12" selection-end-line="952" selection-end-column="12" />
+        <state relative-caret-position="152">
+          <caret line="133" column="56" selection-start-line="133" selection-start-column="56" selection-end-line="133" selection-end-column="56" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
